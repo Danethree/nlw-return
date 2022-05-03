@@ -14,5 +14,10 @@
   - <a href = 'https://github.com/phosphor-icons/phosphor-react'>Phosphor Icons</a>
  - <a href = "https://headlessui.dev/react/popover"> Headless UI </a>
 
+### Dia 2: 
+  #### Bibliotecas Utilizadas:
 
+- <a href = 'https://html2canvas.hertzen.com/getting-started'> html2canvas</a>
+- <a href = 'https://www.npmjs.com/package/@tailwindcss/forms'>tailwindcss/forms"</a>
+- <a href = ''>tailwind-scrollbar</a>
 
