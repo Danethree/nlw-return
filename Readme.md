@@ -8,14 +8,14 @@
  ## Atualizações: 
 
  ### Dia 1: 
-  #### Bibliotecas Utilizadas:
+  #### Pacotes Utilizados:
 
   - <a href = 'https://tailwindcss.com/docs/guides/create-react-app'>Tailwind CSS, Post CSS, Autoprefixer</a>
   - <a href = 'https://github.com/phosphor-icons/phosphor-react'>Phosphor Icons</a>
  - <a href = "https://headlessui.dev/react/popover"> Headless UI </a>
 
 ### Dia 2: 
-  #### Bibliotecas Utilizadas:
+  #### Pacotes Utilizados:
 
 - <a href = 'https://html2canvas.hertzen.com/getting-started'> html2canvas</a>
 - <a href = 'https://www.npmjs.com/package/@tailwindcss/forms'>tailwindcss/forms"</a>
